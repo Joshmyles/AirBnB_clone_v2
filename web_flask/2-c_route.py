@@ -27,7 +27,7 @@ def hbnb():
 
 
 @app.route('/c/<text>', strict_slashes=False)
-def text():
+def c(text):
     """displays C followed by the value of the text variable
     Replace underscore _ with a space
     """
