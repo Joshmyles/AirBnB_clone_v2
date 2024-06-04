@@ -141,3 +141,39 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 (hbnb) ["[User] (98bea5de-9cb0-4d78-8a9d-c4de03521c30) {'updated_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134362), 'name': 'Fred the Frog', 'age': 9, 'id': '98bea5de-9cb0-4d78-8a9d-c4de03521c30', 'created_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134343)}"]
 ```
 <br>
+
+
+# 0x01 .Airbnb clone - Web Static
+
+# 0x03 .Airbnb clone - Deploy static
+
+# 0x04 Airbnb clone - Web framework
+
+## Resources - Read or watch:
+
+What is a Web Framework?
+A Minimal Application
+Routing (except “HTTP Methods”)
+Rendering Templates
+Synopsis
+Variables
+Comments
+Whitespace Control
+List of Control Structures (read up to “Call”)
+Flask
+Jinja
+
+
+## Learning Objectives
+At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
+General
+What is a Web Framework
+How to build a web framework with Flask
+How to define routes in Flask
+What is a route
+How to handle variables in a route
+What is a template
+How to create a HTML response in Flask by using a template
+How to create a dynamic template (loops, conditions…)
+How to display in HTML data from a MySQL database
